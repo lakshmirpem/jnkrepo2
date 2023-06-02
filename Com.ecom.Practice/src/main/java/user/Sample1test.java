@@ -1,6 +1,6 @@
 package user;
 
-public class Testscript1 {
+public class Sample1test {
 
 	public static void main(String[] args) 
 	{
